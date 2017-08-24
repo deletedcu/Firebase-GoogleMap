@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="100dp"
+    android:layout_height="110dp">
+
+    <ImageView
+        android:id="@+id/iv_food"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@color/input_login_hint"
+        android:scaleType="centerCrop"/>
+
+    <TextView
+        android:id="@+id/tv_price"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="5dp"
+        android:paddingTop="10dp"
+        android:paddingRight="5dp"
+        android:paddingBottom="10dp"
+        android:layout_gravity="right"
+        android:text="15$"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:textColor="@color/yellow_2"
+        android:background="@color/bg_textview"/>
+
+    <TextView
+        android:id="@+id/tv_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="3dp"
+        android:paddingTop="5dp"
+        android:paddingRight="3dp"
+        android:paddingBottom="5dp"
+        android:layout_gravity="bottom"
+        android:textAlignment="center"
+        android:text="Spagetti Carbonarra"
+        android:textSize="10dp"
+        android:textColor="@color/black"
+        android:maxLines="1"
+        android:background="@color/light_gray"/>
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center"
+        android:visibility="gone"/>
+
+</FrameLayout>

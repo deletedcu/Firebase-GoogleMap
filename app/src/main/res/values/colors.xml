@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00bcd4</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#008a3f</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="bg_login">#26ae90</color>
+    <color name="bg_register">#2e3237</color>
+    <color name="bg_main">#428bca</color>
+    <color name="bg_facebook">#3b5998</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="input_login">#222222</color>
+    <color name="input_login_hint">#999999</color>
+    <color name="input_register">#888888</color>
+    <color name="input_register_bg">#3b4148</color>
+    <color name="input_register_hint">#5e6266</color>
+    <color name="btn_login">#26ae90</color>
+    <color name="btn_login_bg">#eceef1</color>
+    <color name="lbl_name">#333333</color>
+    <color name="btn_logut_bg">#ff6861</color>
+    <color name="tab_bg">#272727</color>
+    <color name="yellow_1">#ffb900</color>
+    <color name="yellow_2">#ffa200</color>
+    <color name="green_1">#8bc63f</color>
+    <color name="green_2">#0b8a3f</color>
+    <color name="bg_textview">#55000000</color>
+    <color name="light_gray">#e0e0e0</color>
+</resources>

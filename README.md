@@ -21,7 +21,7 @@ For more information, please see the [Google Place API](https://developers.googl
 
 ![Google Map](https://github.com/enfei/Firebase-GoogleMap/blob/master/Screenshot_2017-09-03-13-22-42.png)
 
-#License
+# License
 Copyright 2014 - 2017 Enfei Liao
 
 Licensed under the Apache License, Version 2.0 (the "License");
